@@ -1,0 +1,9 @@
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\bin\Debug\01_SerializarXML.exe.config
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\bin\Debug\01_SerializarXML.exe
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\bin\Debug\01_SerializarXML.pdb
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\bin\Debug\01_Biblioteca.dll
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\bin\Debug\01_Biblioteca.pdb
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\obj\Debug\01_SerializarXML.csprojAssemblyReference.cache
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\obj\Debug\01_SerializarXML.csproj.CopyComplete
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\obj\Debug\01_SerializarXML.exe
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\03_Serializar_XML\Serializar-Deserialzar\01_SerializarXML\obj\Debug\01_SerializarXML.pdb

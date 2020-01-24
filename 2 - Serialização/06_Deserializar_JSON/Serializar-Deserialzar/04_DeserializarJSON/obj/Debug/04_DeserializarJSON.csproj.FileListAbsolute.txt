@@ -1,0 +1,9 @@
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\bin\Debug\04_DeserializarJSON.exe.config
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\bin\Debug\04_DeserializarJSON.exe
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\bin\Debug\04_DeserializarJSON.pdb
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\bin\Debug\01_Biblioteca.dll
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\bin\Debug\01_Biblioteca.pdb
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\obj\Debug\04_DeserializarJSON.csprojAssemblyReference.cache
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\obj\Debug\04_DeserializarJSON.csproj.CopyComplete
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\obj\Debug\04_DeserializarJSON.exe
+C:\Users\dbruno\Downloads\c-sharp - Avancado\2 - Serialização\06_Deserializar_JSON\Serializar-Deserialzar\04_DeserializarJSON\obj\Debug\04_DeserializarJSON.pdb
