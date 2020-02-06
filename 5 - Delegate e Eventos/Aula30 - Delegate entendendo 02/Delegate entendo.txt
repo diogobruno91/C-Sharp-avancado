@@ -1,0 +1,37 @@
+Exemplo variavel
+C#:
+String NomeDaVariavel = "Valor da Variavel";
+
+NomeDaVariavel //"Valor da Variável"
+
+NomedaVariavel += " 10" //Valor da Variável 10
+
+
+C#:
+delegate Referência = Metodo1():
+
+Referência += Metodo2();
+
+Referência();
+
+----------------------------- Microsoft ------------------------
+
+Classe Bota 
+{
+	Propiedades (Icones, texto, Tamanho, Localizacao)
+	Delegate Eventos (Clicar, 2Clicks)
+}
+
+ClickEventsArgs : EventArgs{
+	PosicionamentoClick (X, Y);
+}
+Clicar(this, ClickEventArgs(Curso.Posicao.X, Curso.Posicao.Y));
+
+-----------------------------------------------------------
+
+Botao btn = new Botao("Salvar");
+
+btn.Clicar = MetodoClicarParaSalvar();
+
+public MetodoClicarParaSalvar(){
+}

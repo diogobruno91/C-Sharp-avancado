@@ -1,0 +1,15 @@
+Exemplo variavel
+C#:
+String NomeDaVariavel = "Valor da Variavel";
+
+NomeDaVariavel //"Valor da Variável"
+
+NomedaVariavel += " 10" //Valor da Variável 10
+
+
+C#:
+delegate Referência = Metodo1():
+
+Referência += Metodo2();
+
+Referência();
